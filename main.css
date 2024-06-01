@@ -1,0 +1,44 @@
+body{
+    margin-top: 16px;
+    align-items: center;
+    background-color: #333;
+}
+
+submain {
+    direction: column;
+    gap: 10px;
+}
+card {
+    opacity: 1;
+
+    direction: row;
+    padding: 10px;
+    border-radius: 12px;
+    border-width: 2px;
+    border-color: #22222255;
+    border-style: solid;
+    gap: 20px;
+}
+details{
+    direction: column;
+    gap: 10px;
+}
+textarea{
+    height: 120;
+}
+a{
+    font-size: 14px;
+}
+thumbnail{
+    border-radius: 8px;
+}
+fdetails{
+    direction: row;
+}
+facedev{
+    margin-bottom: -5px;
+    border-radius: 100px;
+}
+facetext{
+    font-size: 10px;
+}
